@@ -1,5 +1,5 @@
 # Smart Home Simulation
-**Authors**: [Darina Mingazova](@mingadar), [Mikita A Citarovič](@citarmik)
+**Authors**: [Darina Mingazova](https://github.com/mingadar), [Mikita A Citarovič](https://github.com/mikicit)
 ## Description
 The main challenge for us was to realise an interesting smart home simulation using suitable design patterns. <br/>
 Of the features, you can specify the simulation acceleration factor. Also, as we are using real time, it will not be difficult to visualise it. The entire logic of the simulation of inhabitants, devices and so on is time-dependent. <br/>
